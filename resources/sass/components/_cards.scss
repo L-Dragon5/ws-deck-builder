@@ -1,0 +1,70 @@
+.card {
+    &-row {
+        flex-direction: row;
+    }
+    
+    &--Yellow { background-color: $card-yellow; }
+    &--Green {  background-color: $card-green; }
+    &--Red { background-color: $card-red; }
+    &--Blue { background-color: $card-blue; }
+}
+
+.card-body {
+    padding: .5rem;
+    min-width: 0;
+}
+
+.card-title {
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+.card-table {
+    font-size: .75rem;
+    th, td {
+        padding-right: 0.75rem;
+    }
+}
+
+.card-link {
+    color: black;
+    border-bottom: 1px solid gray;
+}
+
+.card-image {
+    width: 130px;
+    height: 180px;
+
+    &--Climax {
+        height: 130px;
+        width: 180px;
+        transform: rotate(90deg);
+        position: relative;
+        top: 1.55rem;
+        right: -1.6rem;
+        margin-left: -3rem;
+    }
+}
+
+.card-img-overlay {
+    padding: .5rem;
+    bottom: calc(100% - 249px);
+
+    & > a {
+        color: white;
+    }
+
+    & > table {
+        position: absolute;
+        bottom: 0;
+    }
+}
+
+.card-img-overlay-overlay {
+    display: none;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: calc(100% - 190px);
+    left: 0;
+}

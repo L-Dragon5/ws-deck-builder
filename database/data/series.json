@@ -1,0 +1,450 @@
+[
+    
+{
+    "name": "ダ・カーポ＆Dal Segno",
+    "name_eng": "Da Capo & Dal Segno",
+    "set_codes": ["DC", "DC3", "DS"]
+},
+{
+    "name": "リトルバスターズ！",
+    "name_eng": "Little Busters!",
+    "set_codes": ["LB", "KW"]
+},
+{
+    "name": "ゼロの使い魔",
+    "name_eng": "The Familiar of Zero",
+    "set_codes": ["ZM"]
+},
+{
+    "name": "魔法少女リリカルなのは",
+    "name_eng": "Magical Girl Lyrical Nanoha",
+    "set_codes": ["NS", "N1", "NV", "NA", "N2", "NR"]
+},
+{
+    "name": "らき☆すた",
+    "name_eng": "Lucky Star",
+    "set_codes": ["LS"]
+},
+{
+    "name": "CLANNAD",
+    "name_eng": "Clannad",
+    "set_codes": ["CL"]
+},
+{
+    "name": "宇宙をかける少女／舞-HiME＆舞-乙HiME",
+    "name_eng": "The Girl Who Leapt Through Space / My-HiME & My-Otome",
+    "set_codes": ["SK", "MH"]
+},
+{
+    "name": "Phantom -Requiem for the Phantom-",
+    "name_eng": "Phantom -Requiem for the Phantom-",
+    "set_codes": ["PT"]
+},
+{
+    "name": "涼宮ハルヒの憂鬱",
+    "name_eng": "The Melancholy of Haruhi Suzumiya",
+    "set_codes": ["SY", "Ssy"]
+},
+{
+    "name": "とある魔術の禁書目録／とある科学の超電磁砲",
+    "name_eng": "A Certain Magical Index / A Certain Scientific Railgun",
+    "set_codes": ["ID", "RG"]
+},
+{
+    "name": "Angel Beats!／クドわふたー",
+    "name_eng": "Angel Beats! / Kud Wafter",
+    "set_codes": ["AB", "KW"]
+},
+{
+    "name": "灼眼のシャナ",
+    "name_eng": "Shakugan no Shana",
+    "set_codes": ["SS"]
+},
+{
+    "name": "Rewrite",
+    "name_eng": "Rewrite",
+    "set_codes": ["RW"]
+},
+{
+    "name": "ロボティクス・ノーツ",
+    "name_eng": "Robotics;Notes",
+    "set_codes": ["RN"]
+},
+{
+    "name": "日常",
+    "name_eng": "Nichijou",
+    "set_codes": ["NJ"]
+},
+{
+    "name": "DOG DAYS",
+    "name_eng": "Dog Days",
+    "set_codes": ["DD"]
+},
+{
+    "name": "魔法少女まどか☆マギカ",
+    "name_eng": "Puella Magi Madoka Magica",
+    "set_codes": ["MM", "MR"]
+},
+{
+    "name": "戦姫絶唱シンフォギア",
+    "name_eng": "Symphogear",
+    "set_codes": ["SG"]
+},
+{
+    "name": "ビジュアルアーツ",
+    "name_eng": "Visual Arts",
+    "set_codes": ["VA"]
+},
+{
+    "name": "ビビッドレッド・オペレーション",
+    "name_eng": "Vividred Operation",
+    "set_codes": ["VR"]
+},
+{
+    "name": "ラブライブ！",
+    "name_eng": "Love Live!",
+    "set_codes": ["LL"]
+},
+{
+    "name": "幻影ヲ駆ケル太陽",
+    "name_eng": "Day Break Illusion",
+    "set_codes": ["GT"]
+},
+{
+    "name": "ニセコイ",
+    "name_eng": "Nisekoi",
+    "set_codes": ["NK"]
+},
+{
+    "name": "ガールフレンド(仮)",
+    "name_eng": "Girl Friend Beta",
+    "set_codes": ["GF"]
+},
+{
+    "name": "To LOVEる",
+    "name_eng": "To Love-Ru",
+    "set_codes": ["TL"]
+},
+{
+    "name": "Charlotte",
+    "name_eng": "Charlotte",
+    "set_codes": ["CHA"]
+},
+{
+    "name": "アイドルマスター シンデレラガールズ",
+    "name_eng": "The iDOLM@STER: Cinderella Girls",
+    "set_codes": ["IMC"]
+},
+{
+    "name": "ご注文はうさぎですか？？",
+    "name_eng": "Is the Order a Rabbit?",
+    "set_codes": ["GU"]
+},
+{
+    "name": "ラブライブ！サンシャイン!!",
+    "name_eng": "Love Live! Sunshine",
+    "set_codes": ["LSS"]
+},
+{
+    "name": "カードゲームしよ子",
+    "name_eng": "Card Game Shiyoko",
+    "set_codes": ["CGS"]
+},
+{
+    "name": "BanG Dream!",
+    "name_eng": "BanG Dream!",
+    "set_codes": ["BD"]
+},
+{
+    "name": "この素晴らしい世界に祝福を！",
+    "name_eng": "KonoSuba: God's Blessing on this Wonderful World!",
+    "set_codes": ["KS", "Sks"]
+},
+{
+    "name": "ViVid Strike!",
+    "name_eng": "ViVid Strike!",
+    "set_codes": ["VS"]
+},
+{
+    "name": "けものフレンズ",
+    "name_eng": "Kemono Friends",
+    "set_codes": ["KMN"]
+},
+{
+    "name": "ひなろじ ～from Luck ＆ Logic～",
+    "name_eng": "Hina Logic ~From Luck & Logic~",
+    "set_codes": ["HLL"]
+},
+{
+    "name": "冴えない彼女の育てかた",
+    "name_eng": "Saekano: How to Raise a Boring Girlfriend",
+    "set_codes": ["SHS"]
+},
+{
+    "name": "Summer Pockets",
+    "name_eng": "Summer Pockets",
+    "set_codes": ["SMP"]
+},
+{
+    "name": "ゆらぎ荘の幽奈さん",
+    "name_eng": "Yuuna and the Haunted Hot Springs",
+    "set_codes": ["YYS"]
+},
+{
+    "name": "ペルソナ",
+    "name_eng": "Persona",
+    "set_codes": ["P3", "P4", "PQ", "P5"]
+},
+{
+    "name": "魔界戦記ディスガイア",
+    "name_eng": "Disgaea",
+    "set_codes": ["DG"]
+},
+{
+    "name": "Fate",
+    "name_eng": "Fate",
+    "set_codes": ["FS", "FU", "FH", "FZ"]
+},
+{
+    "name": "シャイニングシリーズ",
+    "name_eng": "Shining Series",
+    "set_codes": ["SE", "SF", "SR"]
+},
+{
+    "name": "THE KING OF FIGHTERS",
+    "name_eng": "The King of Figthers",
+    "set_codes": ["KF"]
+},
+{
+    "name": "戦国BASARA",
+    "name_eng": "Sengoku Basara",
+    "set_codes": ["SB"]
+},
+{
+    "name": "アイドルマスター",
+    "name_eng": "The iDOLM@STER",
+    "set_codes": ["IM", "IAS"]
+},
+{
+    "name": "CANAAN",
+    "name_eng": "Canaan",
+    "set_codes": ["CN"]
+},
+{
+    "name": "FAIRY TAIL",
+    "name_eng": "Fairy Tail",
+    "set_codes": ["FT"]
+},
+{
+    "name": "MELTY BLOOD／空の境界",
+    "name_eng": "Melty Blood / The Garden of Sinners",
+    "set_codes": ["MB", "KK"]
+},
+{
+    "name": "探偵オペラ　ミルキィホームズ",
+    "name_eng": "Tantei Opera Milky Holmes",
+    "set_codes": ["MK", "MK2"]
+},
+{
+    "name": "ヱヴァンゲリヲン新劇場版",
+    "name_eng": "Evangelion",
+    "set_codes": ["EV"]
+},
+{
+    "name": "ブラック★ロックシューター",
+    "name_eng": "Black Rock Shooter",
+    "set_codes": ["BR"]
+},
+{
+    "name": "劇場版マクロスF",
+    "name_eng": "Macross F",
+    "set_codes": ["MF"]
+},
+{
+    "name": "刀語",
+    "name_eng": "Katanagatari",
+    "set_codes": ["KG"]
+},
+{
+    "name": "〈物語〉シリーズ",
+    "name_eng": "Monogatari Series",
+    "set_codes": ["BM", "NM", "MG"]
+},
+{
+    "name": "ギルティクラウン",
+    "name_eng": "Guilty Crown",
+    "set_codes": ["GC"]
+},
+{
+    "name": "アクセル・ワールド",
+    "name_eng": "Accel World",
+    "set_codes": ["AW"]
+},
+{
+    "name": "ソードアート・オンライン",
+    "name_eng": "Sword Art Online",
+    "set_codes": ["SAO"]
+},
+{
+    "name": "初音ミク -Project DIVA-",
+    "name_eng": "Project DIVA",
+    "set_codes": ["PD"]
+},
+{
+    "name": "PSYCHO-PASS サイコパス",
+    "name_eng": "Psycho-Pass",
+    "set_codes": ["PP"]
+},
+{
+    "name": "翠星のガルガンティア",
+    "name_eng": "Gargantia on the Verdurous Planet",
+    "set_codes": ["GG"]
+},
+{
+    "name": "TVアニメ「デビルサバイバー2」",
+    "name_eng": "Devil Survivor 2",
+    "set_codes": ["DS2"]
+},
+{
+    "name": "プリズマ☆イリヤ",
+    "name_eng": "Fate/kaleid liner Prisma Illya",
+    "set_codes": ["PI"]
+},
+{
+    "name": "うーさーのその日暮らし",
+    "name_eng": "Wooser's Daily Life",
+    "set_codes": ["Woo"]
+},
+{
+    "name": "キルラキル",
+    "name_eng": "Kill la Kill",
+    "set_codes": ["KLK"]
+},
+{
+    "name": "ログ・ホライズン",
+    "name_eng": "Log Horizon",
+    "set_codes": ["LH"]
+},
+{
+    "name": "艦隊これくしょん -艦これ-",
+    "name_eng": "Kantai Collection",
+    "set_codes": ["KC"]
+},
+{
+    "name": "クレヨンしんちゃん",
+    "name_eng": "Crayon Shin-chan",
+    "set_codes": ["CS"]
+},
+{
+    "name": "超爆裂異次元メンコバトル ギガントシューター つかさ",
+    "name_eng": "Super Explosive Card Battle Gigant Shooter Tsukasa",
+    "set_codes": ["GST"]
+},
+{
+    "name": "テラフォーマーズ",
+    "name_eng": "Terra Formers",
+    "set_codes": ["TF"]
+},
+{
+    "name": "進撃の巨人",
+    "name_eng": "Attack on Titan",
+    "set_codes": ["AOT"]
+},
+{
+    "name": "スクールガールストライカーズ",
+    "name_eng": "Schoolgirl Strikers",
+    "set_codes": ["SGS"]
+},
+{
+    "name": "ぷよぷよ",
+    "name_eng": "Puyo Puyo",
+    "set_codes": ["PY"]
+},
+{
+    "name": "おそ松さん",
+    "name_eng": "Osomatsu-san",
+    "set_codes": ["OMS"]
+},
+{
+    "name": "境界のRINNE",
+    "name_eng": "Rin-ne",
+    "set_codes": ["KR"]
+},
+{
+    "name": "キズナイーバー",
+    "name_eng": "Kiznaiver",
+    "set_codes": ["KI"]
+},
+{
+    "name": "Re:ゼロから始める異世界生活",
+    "name_eng": "Re:Zero - Starting Life in Another World",
+    "set_codes": ["RZ"]
+},
+{
+    "name": "チェインクロニクル ～ヘクセイタスの閃～",
+    "name_eng": "Chain Chronicle",
+    "set_codes": ["CC"]
+},
+{
+    "name": "STAR WARS",
+    "name_eng": "Star Wars",
+    "set_codes": ["SW"]
+},
+{
+    "name": "天元突破グレンラガン",
+    "name_eng": "Gurren Lagann",
+    "set_codes": ["GL"]
+},
+{
+    "name": "Fate/Apocrypha",
+    "name_eng": "Fate/Apocrypha",
+    "set_codes": ["APO"]
+},
+{
+    "name": "ダーリン・イン・ザ・フランキス",
+    "name_eng": "Darling in the Franxx",
+    "set_codes": ["FXX"]
+},
+{
+    "name": "アニメーション映画『GODZILLA』",
+    "name_eng": "Godzilla",
+    "set_codes": ["GZL"]
+},
+{
+    "name": "ソードアート・オンライン オルタナティブ ガンゲイル・オンライン",
+    "name_eng": "Sword Art Online Alternative Gun Gale Online",
+    "set_codes": ["GGO"]
+},
+
+{
+    "name": "ノーゲーム・ノーライフ",
+    "name_eng": "No Game No Life",
+    "set_codes": ["NGL"]
+},
+{
+    "name": "アイドルマスター ミリオンライブ！",
+    "name_eng": "The iDOLM@STER: Million Live!",
+    "set_codes": ["IMS", "IAS"]
+},
+{
+    "name": "STEINS;GATE",
+    "name_eng": "Steins;Gate",
+    "set_codes": ["STG"]
+},
+{
+    "name": "少女☆歌劇 レヴュースタァライト",
+    "name_eng": "Revue Starlight",
+    "set_codes": ["RSL"]
+},
+{
+    "name": "角川スニーカー文庫",
+    "name_eng": "Kadokawa Sneaker Bunko",
+    "set_codes": ["Snk", "Sks", "Sst", "Ssy", "Snw", "Ssw", "Shh", "Smi", "Sls", "Seo", "Sky", "Ssk", "Ssh", "Shg", "Sfl", "Smc", "Smu", "Sle", "Srm"]
+},
+{
+    "name": "オーバーロード",
+    "name_eng": "Overlord",
+    "set_codes": ["OVL"]
+}
+
+]

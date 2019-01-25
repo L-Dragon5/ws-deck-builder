@@ -1,0 +1,21 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+// Custom
+@import 'components/alerts';
+@import 'components/cards';
+@import 'components/content';
+@import 'components/deck';
+@import 'components/deck-create';
+@import 'components/navbar';
+
+.navbar-laravel {
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
+}
