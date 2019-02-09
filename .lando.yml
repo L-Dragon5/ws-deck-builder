@@ -1,0 +1,12 @@
+name: ws-decks
+recipe: laravel
+config:
+  webroot: public
+proxy:
+  pma:
+    - pma.wsdecks.lndo.site
+services:
+  pma:
+    type: phpmyadmin
+    hosts:
+      - database
