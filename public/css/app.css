@@ -10704,27 +10704,56 @@ a.text-dark:focus {
   flex-wrap: wrap;
 }
 
+.deck-detail__card-block__link {
+  color: black;
+}
+
+.deck-detail__card-block__link:hover,
+.deck-detail__card-block__link:active {
+  text-decoration: none;
+}
+
 .deck-detail__card-block__card {
   padding: 1rem;
 }
 
-.deck-detail__card__image {
-  width: 178px;
-  height: auto;
+.deck-detail__card-block__card--Yellow {
+  background-color: #f8e4209e;
 }
 
-.deck-detail__card__image--Climax {
-  width: 273px;
-  height: auto;
+.deck-detail__card-block__card--Green {
+  background-color: #6bbc61b3;
+}
+
+.deck-detail__card-block__card--Red {
+  background-color: #df383275;
+}
+
+.deck-detail__card-block__card--Blue {
+  background-color: #3eaff996;
+}
+
+.deck-detail__card__information {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.deck-detail__card__information--one {
+  flex: 0 0 25px;
+}
+
+.deck-detail__card__information--two {
+  flex: 1 0 25%;
+}
+
+.deck-detail__card-quantity {
+  float: left;
+  margin-right: 2rem;
 }
 
 .deck-detail__card__table {
   font-size: 1rem;
-}
-
-.deck-detail__card__links {
-  position: absolute;
-  bottom: 1rem;
+  flex: 0 0 100%;
 }
 
 .deck-detail__win__table tr > td:first-child {

@@ -39210,8 +39210,8 @@ function isValidDate(dateString) {
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! C:\PersonalProjects\wsdecks\resources\js\app.js */"./resources/js/app.js");
-module.exports = __webpack_require__(/*! C:\PersonalProjects\wsdecks\resources\sass\app.scss */"./resources/sass/app.scss");
+__webpack_require__(/*! C:\Projects\wsdecks\resources\js\app.js */"./resources/js/app.js");
+module.exports = __webpack_require__(/*! C:\Projects\wsdecks\resources\sass\app.scss */"./resources/sass/app.scss");
 
 
 /***/ })

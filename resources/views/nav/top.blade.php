@@ -9,7 +9,6 @@
         <div class="navbar-nav ml-auto">
             <a class="nav-item nav-link {{ Request::is('/') ? 'active' : '' }}" href="{{ url('/') }}">Home</a>
             <a class="nav-item nav-link {{ Request::is('/decks/create') ? 'active' : '' }}" href="{{ url('/decks/create') }}">Build Deck</a>
-            <a class="nav-item nav-link {{ Request::is('/cards') ? 'active' : '' }}" href="{{ url('/cards') }}">Cards</a>
             <a class="nav-item nav-link disabled {{ Request::is('/tools') ? 'active' : '' }}" href="{{ url('/tools') }}">Tools</a>
         </div>
     </div>

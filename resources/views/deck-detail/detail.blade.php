@@ -17,7 +17,6 @@
                 &nbsp;&nbsp;-&nbsp;&nbsp;
                 Updated at: @php echo date('M dS, Y', strtotime($deck->updated_at)); @endphp
             </div>
-            <p>{{ $deck->description }}</p>
         </div>
 
         @if(!empty($deck->win_location))

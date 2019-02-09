@@ -43,29 +43,46 @@
             flex-wrap: wrap;
         }
 
+        &__link {
+            color: black;
+
+            &:hover, &:active {
+                text-decoration: none;
+            }
+        }
+
         &__card {
             padding: 1rem;
+
+            &--Yellow { background-color: $card-yellow; }
+            &--Green { background-color: $card-green; }
+            &--Red { background-color: $card-red; }
+            &--Blue { background-color: $card-blue; }
         }
     }
 
     &__card {
-        &__image {
-            width: 178px;
-            height: auto;
+        &__information {
+            display: flex;
+            flex-wrap: wrap;
 
-            &--Climax {
-                width: 273px;
-                height: auto;
-            }            
+            &--one {
+                flex: 0 0 25px;
+            }
+
+            &--two {
+                flex: 1 0 25%;
+            }
+        }
+
+        &-quantity {
+            float: left;
+            margin-right: 2rem;
         }
 
         &__table {
             font-size: 1rem;
-        }
-
-        &__links {
-            position: absolute;
-            bottom: 1rem;
+            flex: 0 0 100%;
         }
     }
 

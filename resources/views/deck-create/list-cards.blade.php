@@ -8,21 +8,6 @@
             data-name="{{ $card->name_eng }}"
             data-level="{{ $card->level }}">
             <div class="card deck-create__card bg-dark text-white mb-2">
-                <img src="
-                    @php
-                        $card_id = strtolower(str_replace('/', '_', str_replace('-', '_', $card->card_id))) . '.jpg';
-                        $loc = "storage/cards/$card_id";
-                        if(file_exists($loc)) {
-                            echo asset($loc);
-                        } else {
-                            if($card->type == "Climax") {
-                                echo asset("storage/cards/dc_w00_000.jpg");
-                            } else {
-                                echo asset("storage/cards/dc_w00_00.jpg");
-                            }
-                        }
-                    @endphp
-                " class="card-img deck-create__card__image deck-create__card__image--{{ $card->type }}" />
                 <div class="card-img-overlay">                    
                     @if($card->type == "Character" || $card->type == "Event")
                     <table class="deck-create__card__table card-table my-2"> 
@@ -41,11 +26,6 @@
                     @else
                     <br /><br />
                     @endif
-
-                    <div class="btn-group-vertical deck-create__card__links">
-                        <a href="https://ws-tcg.com/cardlist/?cardno={{ $card->card_id }}" class="btn btn-info" target="_blank"><i class="fas fa-info"></i></a>
-                        <a href="https://heartofthecards.com/code/cardlist.html?card=WS_{{ $card->card_id }}" class="btn btn-primary" target="_blank"><i class="fas fa-language"></i></a>
-                    </div>
                 </div>
                 <div class="card-img-overlay-overlay">
                     <div class="deck-create__card-plus"
